@@ -1,0 +1,23 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.56.101'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(118,18): warning : converting to non-pointer type ‘long int’ from NULL [-Wconversion-null]
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(118,18): warning :   time_t time(NULL);
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(118,18): warning :                   ^
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(140,18): warning : converting to non-pointer type ‘long int’ from NULL [-Wconversion-null]
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(140,18): warning :   time_t time(NULL);
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(140,18): warning :                   ^
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(158,18): warning : converting to non-pointer type ‘long int’ from NULL [-Wconversion-null]
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(158,18): warning :   time_t time(NULL);
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(158,18): warning :                   ^
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(176,18): warning : converting to non-pointer type ‘long int’ from NULL [-Wconversion-null]
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(176,18): warning :   time_t time(NULL);
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(176,18): warning :                   ^
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(194,18): warning : converting to non-pointer type ‘long int’ from NULL [-Wconversion-null]
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(194,18): warning :   time_t time(NULL);
+C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\main.cpp(194,18): warning :                   ^
+  Linking objects
+  DemonOnLinux.vcxproj -> C:\Users\user\source\repos\DemonOnLinux\DemonOnLinux\bin\x64\Debug\DemonOnLinux.out
